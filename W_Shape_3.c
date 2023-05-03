@@ -31,7 +31,7 @@ int main()
             s++;
             k -= 2;
         }
-        printf("\n");
+        // printf("\n");
     }
     return 0;
 }
