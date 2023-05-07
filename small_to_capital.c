@@ -2,7 +2,7 @@
 
 int small_to_cap(char c)
 {
-    char cap = c - 32;
+    char cap = c + 32;
     printf("%c", cap);
     return cap;
 }
